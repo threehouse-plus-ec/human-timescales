@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+title: "Human-System Timescales"
+message: "If you use this work, please cite it as below."
+type: dataset
+authors:
+  - family-names: Warring
+    given-names: Ulrich
+    affiliation: "Physikalisches Institut, Albert-Ludwigs-Universität Freiburg"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"  # to be supplied
+abstract: >-
+  A research programme investigating institutional reform timescales
+  with persistent multi-domain legitimacy. Hypothesis: such reform is
+  bounded below by a legitimacy-transfer generation (~25–40 years) and
+  this floor has not substantially shortened despite changes in
+  communication and computation infrastructure. Mechanism conjecture:
+  technology operates on connectivity and reconciliation rate of
+  knowledge stores, not on the legitimacy-transfer process itself.
+  Pre-falsification scoping work with binding empirical timelines.
+keywords:
+  - institutional timescales
+  - legitimacy transfer
+  - generational replacement
+  - open science
+  - FAIR principles
+  - ADM-EC framework
+  - Open-Science Harbour
+  - Council deliberation
+license: CC-BY-4.0
+repository-code: "https://github.com/threehouse-plus-ec/human-timescales"
+version: "0.1.0"
+date-released: "2026-04-27"
+references:
+  - type: article
+    authors:
+      - family-names: Wilkinson
+        given-names: Mark D.
+    title: "The FAIR Guiding Principles for scientific data management and stewardship"
+    journal: "Scientific Data"
+    year: 2016
+    volume: 3
+    doi: "10.1038/sdata.2016.18"

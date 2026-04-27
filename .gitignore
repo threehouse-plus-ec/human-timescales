@@ -1,0 +1,61 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local environment
+.env
+.env.local
+*.local
+
+# Output / build artefacts (keep source, ignore generated)
+*.log
+*.tmp
+.cache/
+
+# Large data — committed only via Git LFS or external archive
+# (Comment out lines below if you want raw data tracked by ordinary Git.)
+data/**/raw/*.zip
+data/**/raw/*.tar.gz
+data/**/raw/*.pdf
+*.parquet
+
+# Notebook outputs (recommend stripping before commit)
+# Use nbstripout or similar

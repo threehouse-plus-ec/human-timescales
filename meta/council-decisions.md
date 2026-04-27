@@ -76,6 +76,15 @@ Format:
 **Justification:** Protocol (iii) is the only one of the three candidates that allows R8 (temporal parallax) to be empirically interrogated rather than assumed away. Doubled workload is acceptable cost; the alternative (i or ii) cannot distinguish stationarity from time-construction asymmetry. The new `protocols/` directory cleanly separates binding operational rules from analytical exploration (memos), preventing the protocol from being mistaken for a memo or a sail.
 **Affected artifacts:** `docs/protocols/human-timescales-commensurability-protocol-v0.1.md` (created); `docs/protocols/README.md` (created); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-06 status updated); `docs/README.md`, `README.md` (subdirectory map updated).
 
+## 2026-008
+
+**Date:** 2026-04-27.
+**Stance composition:** Architect (drafting); user as Integrator-of-record (authorisation issued via "yes" to commit-and-continue offer).
+**Context:** TC-07 (reform-event sub-typing protocol) authorisation, immediately after TC-06 commit.
+**Decision:** (a) Authorise TC-07 deliverable drafting and move card status PROPOSED → IN-PROGRESS. (b) Adopt strict inclusion (three necessary conditions, all required: documentary ratification, structural change in decision rights or membership rules, multi-domain-legitimacy applicability). (c) Adopt strict multi-tagging (multi-tag where evidence is positive; predominance-based single-tagging forbidden in v0.1). (d) Set ≥80% raw inter-coder agreement on both inclusion and sub-typing as the operational benchmark, with Cohen's κ ≥ 0.6 as supplementary check.
+**Justification:** Inclusion-strict + sub-typing-permissive (within the included set) trades event count for inter-coder reliability. The trade is deliberate: TC-01's value rests on sub-type-stratified results being reproducible across coders, not on a maximal event count. Predominance-based single-tagging would defeat reliability, since "predominant character" is precisely where coders disagree.
+**Affected artifacts:** `docs/protocols/human-timescales-reform-event-subtyping-protocol-v0.1.md` (created); `docs/protocols/README.md` (updated); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-07 status updated).
+
 ---
 
 *Append below this line. Increment Decision ID yearly: 2026-NNN, 2027-NNN, ...*

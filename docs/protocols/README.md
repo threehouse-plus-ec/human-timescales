@@ -5,6 +5,7 @@ Operational methodological protocols. Each protocol fixes the rules under which 
 ## Active protocols
 
 - `human-timescales-commensurability-protocol-v0.1.md` — TC-06 deliverable. Cross-era commensurability for M1 reform-cycle archaeology. Dual-measurement (calendar-time + institution-internal-time) selected. Gates TC-01.
+- `human-timescales-reform-event-subtyping-protocol-v0.1.md` — TC-07 deliverable. Inclusion test, exclusion test, and three-sub-type taxonomy (doctrinal / structural / disciplinary) with multi-tagging required where evidence is positive. Inter-coder reliability target ≥80%. Gates TC-01.
 
 ## Discipline
 

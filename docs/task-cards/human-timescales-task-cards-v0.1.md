@@ -214,9 +214,11 @@ Critical path to S2 deliverable (Breakwater ledger): **TC-06/07 → TC-01 → TC
 ## TC-07 — Reform-Event Sub-Typing Protocol
 
 **Type:** Methodological infrastructure.
-**Status:** PROPOSED.
+**Status:** IN-PROGRESS (deliverable v0.1 drafted 2026-04-27; awaiting Guardian + domain-consultant review).
 **Drafter:** Architect.
 **Reviewer:** Guardian + domain consultant for whichever archive is being studied.
+
+**Deliverable location:** `docs/protocols/human-timescales-reform-event-subtyping-protocol-v0.1.md`.
 
 **Parent:** v0.2 §5 M1; Architect M1 second bullet.
 **Depends on:** none.

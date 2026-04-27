@@ -6,6 +6,7 @@ Working memos. Focused investigations of single threads, conjectures, or boundar
 
 - `t10-mechanism-conjecture-memo-v0.1.md` — T10 reframed from boundary case to mechanism evidence; ICANN/IANA case anchored.
 - `bibliography-fill-tenure-trends-memo-v0.1.md` — TC-11 deliverable. 15 annotated sources filling the Mannheim 1928 → present gap on generational replacement, organisational ecology, CEO/legislator tenure, and cohort replacement in scientific fields. Awaiting Verifier pass.
+- `defunct-archive-feasibility-memo-v0.1.md` — TC-08 deliverable. Survivorship-bias control feasibility check. Paired-case verdict: feasibility confirmed for Knights Templar (1119–1312) primary + English Dissolution monastic cohort (1536–1541) secondary, with explicit caveats. Society of Jesus declined as not-in-fact-defunct; failed corporations declined as out-of-H₀-scope. Awaiting Guardian (R3) review.
 
 ## Discipline
 

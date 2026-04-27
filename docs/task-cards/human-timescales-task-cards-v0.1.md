@@ -243,9 +243,11 @@ Critical path to S2 deliverable (Breakwater ledger): **TC-06/07 → TC-01 → TC
 ## TC-08 — Defunct-Institution Archive Feasibility Check
 
 **Type:** Survivorship-bias control.
-**Status:** PROPOSED (recommended, not strictly binding).
+**Status:** IN-PROGRESS (deliverable v0.1 drafted 2026-04-27; awaiting Guardian R3 review).
 **Drafter:** Author or historiographic consultant.
 **Reviewer:** Guardian (R3 survivorship discipline).
+
+**Deliverable location:** `docs/memos/defunct-archive-feasibility-memo-v0.1.md`.
 
 **Parent:** v0.2 §5 M1 (Scout signal 2 / R3).
 **Depends on:** none.

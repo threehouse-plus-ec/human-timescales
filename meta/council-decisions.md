@@ -94,6 +94,15 @@ Format:
 **Justification:** Citation fabrication is a known LLM-failure mode; the search-strategy declaration and explicit Verifier-pending status protect the programme's source-verification discipline. Lodging in `docs/memos/` (not a new directory) avoids structural over-engineering for a single document; the memo discipline accommodates focused investigations that argue, which is what annotated entries do.
 **Affected artifacts:** `docs/memos/bibliography-fill-tenure-trends-memo-v0.1.md` (created); `docs/memos/README.md` (updated); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-11 status updated).
 
+## 2026-010
+
+**Date:** 2026-04-27.
+**Stance composition:** Author (drafting); user as Integrator-of-record (authorisation issued via "as you suggest" on Guardian's TC-05 → TC-08 pivot recommendation, after TC-05 was identified as drafter-blocked due to dependency on the GLHC dossier).
+**Context:** TC-08 (defunct-institution archive feasibility check) authorisation, in lieu of TC-05 which depends on dossier material the drafting agent does not have access to. TC-08 was drafter-feasible because the Templar archive and the English Dissolution archive are publicly documented.
+**Decision:** (a) Authorise TC-08 deliverable drafting and move card status PROPOSED → IN-PROGRESS. (b) Adopt paired-case approach: Knights Templar (1119–1312) as primary defunct-archive case, English Dissolution monastic cohort (1536–1541) as secondary, with cohort-level rather than singleton-Glastonbury analysis preferred. (c) Decline Society of Jesus as a defunct-archive case on the grounds that the Order survived in Russia and Prussia during 1773–1814 suppression and is therefore not in fact defunct. (d) Decline failed corporations as defunct-archive cases on the grounds that they are out of H₀ multi-domain-legitimacy scope. (e) Refuse to draft TC-05 in this session because the drafter is named as UW-direct-custodian and the deliverable depends on the GLHC dossier, which the drafting agent cannot fabricate without violating the card's explicit forced-fit risk note.
+**Justification:** R3 survivorship-bias control requires *paired* defunct-case analysis to triangulate dissolution dynamics. Singleton Templar analysis is vulnerable to over-determination of the 1307–1312 dissolution; cohort-level Dissolution analysis is vulnerable to externally-imposed dissolution but offers the unique benefit of within-cohort documentary-survival heterogeneity. The pairing addresses both vulnerabilities.
+**Affected artifacts:** `docs/memos/defunct-archive-feasibility-memo-v0.1.md` (created); `docs/memos/README.md` (updated); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-08 status updated).
+
 ---
 
 *Append below this line. Increment Decision ID yearly: 2026-NNN, 2027-NNN, ...*

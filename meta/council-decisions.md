@@ -85,6 +85,15 @@ Format:
 **Justification:** Inclusion-strict + sub-typing-permissive (within the included set) trades event count for inter-coder reliability. The trade is deliberate: TC-01's value rests on sub-type-stratified results being reproducible across coders, not on a maximal event count. Predominance-based single-tagging would defeat reliability, since "predominant character" is precisely where coders disagree.
 **Affected artifacts:** `docs/protocols/human-timescales-reform-event-subtyping-protocol-v0.1.md` (created); `docs/protocols/README.md` (updated); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-07 status updated).
 
+## 2026-009
+
+**Date:** 2026-04-27.
+**Stance composition:** Author (drafting); user as Integrator-of-record (authorisation issued via "go" continuation after TC-07 commit).
+**Context:** TC-11 (bibliography fill: contemporary tenure-trend literature) authorisation, in parallel with the gating prerequisites already drafted, since TC-11 is independent of the critical path and unblocks v0.3 §12 work.
+**Decision:** (a) Authorise TC-11 deliverable drafting and move card status PROPOSED → IN-PROGRESS. (b) Lodge the deliverable in `docs/memos/` as a working memo (not a protocol), since it carries annotations that argue rather than operational rules. (c) Adopt explicit Verifier-pass discipline: post-1980 citations spot-verified via web search at drafting time; pre-1980 canonical citations lodged for Verifier confirmation. (d) Acknowledge four named coverage gaps in the v0.1 fill (post-2015 contemporary empirical, religious-order succession, AI-mediated coordination, comparative-international) with Verifier mandate to close them in v0.2.
+**Justification:** Citation fabrication is a known LLM-failure mode; the search-strategy declaration and explicit Verifier-pending status protect the programme's source-verification discipline. Lodging in `docs/memos/` (not a new directory) avoids structural over-engineering for a single document; the memo discipline accommodates focused investigations that argue, which is what annotated entries do.
+**Affected artifacts:** `docs/memos/bibliography-fill-tenure-trends-memo-v0.1.md` (created); `docs/memos/README.md` (updated); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-11 status updated).
+
 ---
 
 *Append below this line. Increment Decision ID yearly: 2026-NNN, 2027-NNN, ...*

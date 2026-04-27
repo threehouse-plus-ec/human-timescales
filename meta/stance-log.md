@@ -20,6 +20,7 @@ Format: date — stance — context (artifact or activity) — outcome / disposi
 - **2026-04-27 — Guardian** — Repository setup, FAIR discipline integration, governance file scaffolding.
 - **2026-04-27 — Architect** — Drafting `docs/protocols/human-timescales-commensurability-protocol-v0.1.md` (TC-06 deliverable). Adopted dual-measurement protocol (iii) per Guardian preference; specified six acceptance conditions for stationarity claims; Q-CP1–Q-CP4 logged for review pass.
 - **2026-04-27 — Architect** — Drafting `docs/protocols/human-timescales-reform-event-subtyping-protocol-v0.1.md` (TC-07 deliverable). Three-condition inclusion test, six-category exclusion test, three sub-types (doctrinal / structural / disciplinary) operationalised with TC-01 examples and T10 mapping. Multi-tagging required where evidence is positive (predominance-based single-tagging forbidden in v0.1). Inter-coder reliability target ≥80% with κ supplementary. Q-RE1–Q-RE4 logged for review pass.
+- **2026-04-27 — Author** — Drafting `docs/memos/bibliography-fill-tenure-trends-memo-v0.1.md` (TC-11 deliverable). 15 annotated sources across five sub-bands; search-strategy declaration installed per TC-11 selection-bias risk; post-1980 citations spot-verified via web search; pre-1980 canonical entries lodged for Verifier confirmation. Q-BF1–Q-BF3 and four named coverage gaps logged for Verifier pass.
 
 ---
 

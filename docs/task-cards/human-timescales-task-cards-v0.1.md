@@ -329,9 +329,11 @@ Each claim with its own predictions, discriminant condition, feasibility flag, a
 ## TC-11 — Bibliography Fill: Contemporary Tenure-Trend Literature
 
 **Type:** Auxiliary scholarship.
-**Status:** PROPOSED.
+**Status:** IN-PROGRESS (deliverable v0.1 drafted 2026-04-27; awaiting Verifier review).
 **Drafter:** Author or research assistant.
 **Reviewer:** Verifier.
+
+**Deliverable location:** `docs/memos/bibliography-fill-tenure-trends-memo-v0.1.md`.
 
 **Parent:** v0.2 §12 (Architect bibliography gap).
 **Depends on:** none.

@@ -5,6 +5,7 @@ Working memos. Focused investigations of single threads, conjectures, or boundar
 ## Active memos
 
 - `t10-mechanism-conjecture-memo-v0.1.md` — T10 reframed from boundary case to mechanism evidence; ICANN/IANA case anchored.
+- `bibliography-fill-tenure-trends-memo-v0.1.md` — TC-11 deliverable. 15 annotated sources filling the Mannheim 1928 → present gap on generational replacement, organisational ecology, CEO/legislator tenure, and cohort replacement in scientific fields. Awaiting Verifier pass.
 
 ## Discipline
 

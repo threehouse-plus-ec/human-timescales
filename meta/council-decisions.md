@@ -67,6 +67,15 @@ Format:
 **Justification:** Without operational FAIR discipline, the programme accumulates tacit knowledge that defeats reuse. Without a proper repository, the artifacts cannot be cited or archived to Zenodo.
 **Affected artifacts:** Entire repository structure.
 
+## 2026-007
+
+**Date:** 2026-04-27.
+**Stance composition:** Architect (drafting); user as Integrator-of-record (authorisation issued via "go" on Guardian's TC-06 next-step recommendation).
+**Context:** TC-06 (cross-era commensurability protocol) authorisation and protocol selection.
+**Decision:** (a) Authorise TC-06 deliverable drafting and move card status PROPOSED → IN-PROGRESS. (b) Adopt dual-measurement protocol (iii) — calendar-time + institution-internal-time channels, divergence reported as data — per Guardian-preferred option on the TC-06 card. (c) Establish `docs/protocols/` as a peer subdirectory to `docs/memos/` to house TC-06, and prospectively TC-07 and TC-10 deliverables.
+**Justification:** Protocol (iii) is the only one of the three candidates that allows R8 (temporal parallax) to be empirically interrogated rather than assumed away. Doubled workload is acceptable cost; the alternative (i or ii) cannot distinguish stationarity from time-construction asymmetry. The new `protocols/` directory cleanly separates binding operational rules from analytical exploration (memos), preventing the protocol from being mistaken for a memo or a sail.
+**Affected artifacts:** `docs/protocols/human-timescales-commensurability-protocol-v0.1.md` (created); `docs/protocols/README.md` (created); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-06 status updated); `docs/README.md`, `README.md` (subdirectory map updated).
+
 ---
 
 *Append below this line. Increment Decision ID yearly: 2026-NNN, 2027-NNN, ...*

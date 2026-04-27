@@ -18,6 +18,7 @@ Format: date — stance — context (artifact or activity) — outcome / disposi
 - **2026-04-27 — Guardian** — Drafting `docs/memos/t10-mechanism-conjecture-memo-v0.1.md` after S6 promotion authorisation. ICANN/IANA timeline anchored via primary-source web search.
 - **2026-04-27 — Guardian** — Drafting `docs/task-cards/human-timescales-task-cards-v0.1.md`. Eleven cards specified; critical path identified.
 - **2026-04-27 — Guardian** — Repository setup, FAIR discipline integration, governance file scaffolding.
+- **2026-04-27 — Architect** — Drafting `docs/protocols/human-timescales-commensurability-protocol-v0.1.md` (TC-06 deliverable). Adopted dual-measurement protocol (iii) per Guardian preference; specified six acceptance conditions for stationarity claims; Q-CP1–Q-CP4 logged for review pass.
 
 ---
 

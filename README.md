@@ -24,6 +24,7 @@ This is descriptive scientific work on observed coordination timescales. The rep
 |---|---|
 | `docs/scoping/` | Versioned scoping documents (current: v0.2). |
 | `docs/memos/` | Working memos (current: T10 mechanism conjecture v0.1). |
+| `docs/protocols/` | Binding methodological protocols (current: commensurability v0.1). |
 | `docs/task-cards/` | Operational task cards (current: 11 cards, v0.1). |
 | `docs/sails/` | Sail essays — arguments and interpretations (currently empty). |
 | `docs/ledger-drafts/` | Draft Breakwater claim-ledger entries before submission. |

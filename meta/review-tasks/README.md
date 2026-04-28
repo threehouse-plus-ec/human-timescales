@@ -10,7 +10,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 
 ## Active briefs
 
-*(none)*
+- `tc08-guardian-review-v0.1.md` (RT-2026-004) — Guardian (R3) review pass on TC-08 defunct-archive feasibility memo v0.1, **with cross-binding R8-closure-precondition mandate** per RT-2026-002 Q4 ruling. Issued 2026-04-28 by Architect after pre-stage review and refinements (2.1 threshold (ii) → Q3 explicit interpretation pathway via `R8-residual-confirmed`; 2.2 Templar n=7–8 boundary-fragility note in §1 threshold (iii) bite description). Five binding-ruling questions, with per-discipline split permitted on Q2 and Q4 where R3-discipline and R8-closure-precondition diverge. Q4 small-n finding: entire TC-08 paired-case set sits at or below n = 15, mostly in 8≤n<15 weak-concordance band — threshold (iii) forces Guardian to rule on whether TC-08 may rely on weak concordance at all without disqualifying itself as an R8-closure component.
 
 ## Closed briefs
 
@@ -20,8 +20,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 
 ## Pending briefs (not yet issued)
 
-- TC-07 Guardian + domain-consultant (council historiography) review. Should incorporate SF-9 as input.
-- TC-08 Guardian (R3 survivorship-bias discipline) review. **v0.1 draft pre-staged 2026-04-28** at `tc08-guardian-review-v0.1.md` (provisional ID RT-2026-004); awaits Architect review and RT-2026-002 Q2/Q4 verdict before issuance.
+- TC-07 Guardian + domain-consultant (council historiography) review. Should incorporate SF-9 as input, plus RT-2026-002 cross-card outputs (Q2(b) three-tier power rule, Q3 tag-set expansion implications for TC-07 §6 strict multi-tagging).
 
 ---
 

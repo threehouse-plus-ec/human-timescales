@@ -185,11 +185,11 @@ Critical path to S2 deliverable (Breakwater ledger): **TC-06/07 → TC-01 → TC
 ## TC-06 — Cross-Era Commensurability Protocol
 
 **Type:** Methodological infrastructure.
-**Status:** IN-PROGRESS (deliverable v0.1 drafted 2026-04-27; awaiting Guardian + Scout review).
+**Status:** IN-PROGRESS (v0.1 drafted 2026-04-27; Scout review closed RT-2026-001 on 2026-04-28; Guardian R8-discipline review closed RT-2026-002 on 2026-04-28; v0.2 drafted 2026-04-28 with full integration of both responses; v0.2.1 binding follow-up: Architect era-band slope-floor derivation before TC-01 extraction).
 **Drafter:** Architect.
 **Reviewer:** Guardian (R8 temporal-parallax discipline) + Scout.
 
-**Deliverable location:** `docs/protocols/human-timescales-commensurability-protocol-v0.1.md`.
+**Deliverable location:** `docs/protocols/human-timescales-commensurability-protocol-v0.2.md` (current); v0.1 retained at `docs/protocols/human-timescales-commensurability-protocol-v0.1.md` for reference.
 
 **Parent:** v0.2 §5 M1 (binding constraint, E3); R8.
 **Depends on:** none.

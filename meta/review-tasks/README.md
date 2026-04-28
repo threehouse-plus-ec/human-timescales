@@ -11,6 +11,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 ## Active briefs
 
 - `tc06-guardian-review-v0.1.md` (RT-2026-002) — Guardian (R8) review pass on TC-06 commensurability protocol v0.1. Issued 2026-04-28 by Architect with Scout response (RT-2026-001) named as input. Five binding-ruling questions: effect-size floor (Q-CP3); channel-dominance + cross-card coupling; §6 procedural-falsification + §4.4 motte-and-bailey audit; R8 closure-call ratification; Q-CP4 small-sample default. Plus net-new R8 risk catch-all and explicit TC-06 v0.2 drafting authorisation.
+- `tc11-verifier-review-v0.1.md` (RT-2026-003) — Verifier review pass on TC-11 bibliography fill memo v0.1. Issued 2026-04-28 by Author. Five questions: citation confirmation (pre-1980 canonical + post-1980 cross-check); page-level confirmation for ten key factual claims; coverage-gap closure (4 named gaps, target 6–9 new annotated entries); Q-BF1/2/3 resolution; selection-bias adequacy + Spencer Stuart [12] methodological scrutiny. Independent of TC-06 thread; can run fully in parallel.
 
 ## Closed briefs
 
@@ -19,8 +20,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 ## Pending briefs (not yet issued)
 
 - TC-07 Guardian + domain-consultant (council historiography) review. Should incorporate SF-9 as input.
-- TC-11 Verifier review.
-- TC-08 Guardian (R3 survivorship-bias discipline) review.
+- TC-08 Guardian (R3 survivorship-bias discipline) review. **v0.1 draft pre-staged 2026-04-28** at `tc08-guardian-review-v0.1.md` (provisional ID RT-2026-004); awaits Architect review and RT-2026-002 Q2/Q4 verdict before issuance.
 
 ---
 

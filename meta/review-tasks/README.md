@@ -11,11 +11,11 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 ## Active briefs
 
 - `tc06-guardian-review-v0.1.md` (RT-2026-002) — Guardian (R8) review pass on TC-06 commensurability protocol v0.1. Issued 2026-04-28 by Architect with Scout response (RT-2026-001) named as input. Five binding-ruling questions: effect-size floor (Q-CP3); channel-dominance + cross-card coupling; §6 procedural-falsification + §4.4 motte-and-bailey audit; R8 closure-call ratification; Q-CP4 small-sample default. Plus net-new R8 risk catch-all and explicit TC-06 v0.2 drafting authorisation.
-- `tc11-verifier-review-v0.1.md` (RT-2026-003) — Verifier review pass on TC-11 bibliography fill memo v0.1. Issued 2026-04-28 by Author. Five questions: citation confirmation (pre-1980 canonical + post-1980 cross-check); page-level confirmation for ten key factual claims; coverage-gap closure (4 named gaps, target 6–9 new annotated entries); Q-BF1/2/3 resolution; selection-bias adequacy + Spencer Stuart [12] methodological scrutiny. Independent of TC-06 thread; can run fully in parallel.
 
 ## Closed briefs
 
 - `tc06-scout-review-v0.1.md` (RT-2026-001) — Scout review pass on TC-06 commensurability protocol v0.1. Issued 2026-04-28 by Architect; response lodged 2026-04-28 at `tc06-scout-review-response-v0.1.md`. Five verdicts (Q1 *surfaces only*; Q2 *promote now*; Q3 *consultative recommendation*; Q4 *propose modification*; Q5 *consultative recommendation*); two net-new horizon signals (SF-8, SF-9, lodged at `../horizon-signals.md`); R8 closure call: *procedurally-managed-but-live*.
+- `tc11-verifier-review-v0.1.md` (RT-2026-003) — Verifier review pass on TC-11 bibliography fill memo v0.1. Issued 2026-04-28 by Author; response lodged 2026-04-28 at `tc11-verifier-review-response-v0.1.md`. All 15 citations confirmed (10 pre-1980 + 5 post-1980 cross-checks). Page-level confirmations for 10 key claims at section/chapter level; two specific v0.2 corrections required (structural-inertia dual-sourcing; Baron-Hannan hazard-ratio attribution). Twelve new annotated sources lodged in §3 (target 6–9; delivered 12). Q-BF1 ratified with tightening; Q-BF2 ruled non-blocking with v0.2.1 follow-up flag; Q-BF3 closed by Verifier without domain consultant. **Spencer Stuart [12] demoted from H₁ second-order-signature anchor to descriptive-practitioner status** under Q5(b). Three search-protocol tightenings prescribed: inverse-citation sweeps; non-English search round; hostile-to-thesis band. TC-11 v0.2 drafting authorised.
 
 ## Pending briefs (not yet issued)
 

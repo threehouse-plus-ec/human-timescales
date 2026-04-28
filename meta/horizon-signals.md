@@ -33,6 +33,10 @@ Format:
 - **Status:** LIVE.
 - **Resolution:** *(pending TC-06 v0.2 revision pass.)*
 
+- **Update issued:** 2026-04-28 (later same day).
+- **Source:** Guardian response to RT-2026-002 (Q3 ruling).
+- **Update text:** SF-8's prescription to add `coverage-artifact` as a §4.4 divergence-cause tag is **ratified** by Guardian Q3 ruling and lands in the expanded six-tag set for TC-06 v0.2 (`tenure-trend`, `succession-contested`, `coverage-gap`, `coverage-artifact`, `R8-residual-confirmed`, `none-identified`). SF-8 status remains LIVE pending TC-06 v0.2 drafting; the channel-explicit coverage-correction declaration is also ratified for v0.2 inclusion.
+
 ## SF-9
 
 - **Issued:** 2026-04-28.
@@ -41,6 +45,15 @@ Format:
 - **Target deliverable:** TC-07 inter-coder reliability sampling (require era-stratified calibration samples, not only sub-type-stratified); TC-07 v0.2 revision.
 - **Status:** LIVE.
 - **Resolution:** *(pending TC-07 v0.2 revision pass and the calibration pilot per TC-07 §7.)*
+
+## SF-10
+
+- **Issued:** 2026-04-28.
+- **Issuer:** Guardian, response to RT-2026-002 (`meta/review-tasks/tc06-guardian-review-response-v0.1.md`).
+- **Statement:** *Boundary-condition fragility.* Era-band boundaries (Q1: 1100, 1800), n-tier cut-offs (Q2(b): 8, 15), and sample-size cut-offs (Q5: 30) introduce step-function discontinuities under the TC-06 v0.2 design. An analyst whose sample is n = 14 vs n = 15 picks different concordance rules; an interval at year 1099 vs year 1101 picks different effect-size floors and channel-dominance presumptions. This is a generic R8/R4 rescue surface where verdicts can flip across the cut-off without methodologically defensible reason.
+- **Target deliverable:** TC-06 v0.2 §5 (procedural mitigation drafted into the conditions, not appended): Q1 boundary addendum (verdicts within ±25 yr of a band boundary reported under both adjacent rules); Q2(b) tier-overlap reporting; Q5 written-deviation requirement.
+- **Status:** PROCEDURALLY-MITIGATED-IN-V0.2-DESIGN; LIVE pending v0.2 ratification.
+- **Resolution:** *(pending TC-06 v0.2 drafting and downstream verification that the mitigations are load-bearing in TC-01 / TC-04 / TC-08 use.)*
 
 ---
 
@@ -54,6 +67,11 @@ Substantive updates to risk-register entries (R1–R10 in scoping v0.2 §9) that
 - **Source:** Scout response to RT-2026-001 (R8 closure call).
 - **Update text:** R8 status is **procedurally-managed-but-live**. Dual measurement under TC-06 v0.1 does not close R8; it converts R8 from an unexamined assumption into an empirically reportable quantity, which is a methodological advance, but the temporal-parallax risk itself remains active wherever channels diverge. R8 closes only when stable cross-channel calibration is demonstrated across at least two distinct institutional forms — i.e., post-TC-04. Until then, every stationarity claim issued under TC-06 carries a live R8 residual that must be declared in the claim's annotation.
 - **Binding effect:** v0.3 of the scoping document must update §9 R8 to reflect this status; intermediate deliverables (TC-09, ledger-drafts) must annotate the R8 residual on every stationarity claim.
+
+- **Update issued:** 2026-04-28 (later same day; Guardian ruling on RT-2026-002 Q4 supersedes the Scout closure-call on closure scope only, leaves the procedurally-managed-but-live status intact).
+- **Source:** Guardian response to RT-2026-002 (`meta/review-tasks/tc06-guardian-review-response-v0.1.md`), Q4 ruling.
+- **Update text:** R8 closure now requires *both* TC-04 (cross-institution portability) *and* TC-08 (defunct-archive paired-case for survivor-vs-defunct robustness), plus satisfaction of three Guardian-pre-declared thresholds: (i) per-interval channel-ratio bound — variation by no more than a factor of 2 from the cross-case median across all paired intervals in TC-04 and TC-08; (ii) no tag-cluster dominance — neither `tenure-trend` nor `R8-residual-confirmed` modal in any TC-04 case or in the TC-08 paired-case set; (iii) cross-form coverage — at least one TC-04 case and at least one TC-08 case characterised without invoking the Q2(b) lower-tier weak-concordance regime as the modal verdict-issuance pathway. On satisfaction, R8 status moves to **closed-conditional-on-thresholds**, with the three thresholds themselves subject to Guardian re-authorisation if any TC-04 or TC-08 finding exposes their fragility.
+- **Binding effect:** TC-06 v0.2 §6 must encode the three thresholds. The pre-staged TC-08 Guardian R3 brief (provisional RT-2026-004) §1 must be revised pre-issuance to reflect that TC-08 is gating to R8 closure as well as R3 closure. v0.3 of the scoping document carries the closure-conditional status forward in §9 R8.
 
 ---
 

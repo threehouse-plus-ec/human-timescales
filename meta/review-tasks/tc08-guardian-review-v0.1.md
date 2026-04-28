@@ -2,12 +2,12 @@
 
 **Brief ID:** RT-2026-004 (provisional — assigned on issuance; RT-2026-003 was assigned to TC-11 Verifier review on 2026-04-28).
 **Drafted:** 2026-04-28.
-**Status:** **DRAFT pre-stage.** Awaits (a) Architect/user review of this draft; (b) Guardian verdict on RT-2026-002 Q4 (if R8 closure is broadened to require TC-08, §1 below tightens accordingly).
+**Status:** **DRAFT pre-stage** (RT-2026-002 closed 2026-04-28; Q4 verdict broadened R8 closure to require TC-08 per the Guardian response, so §1 below has been tightened accordingly). Awaits Architect/user review and issuance authorisation.
 **Issuer-of-record (when issued):** Architect (parallel to RT-2026-002).
 **Recipient stance:** Guardian (R3 survivorship-bias discipline).
 **Deliverable under review:** `docs/memos/defunct-archive-feasibility-memo-v0.1.md` (TC-08).
 **Companion deliverables:** TC-06 commensurability protocol v0.1 (under separate Guardian R8 review, RT-2026-002); TC-07 reform-event sub-typing protocol v0.1.
-**Due-by (recommended):** before TC-01 data-collection commencement. If RT-2026-002 Q4 broadens R8 closure to also require TC-08, this brief becomes gating to R8 closure as well as to R3 closure; due-by tightens from "parallel with TC-01" to Q3 2026.
+**Due-by (recommended):** Q3 2026. RT-2026-002 Q4 has broadened R8 closure to require TC-08, so this brief is now gating to R8 closure as well as to R3 closure; the original "parallel with TC-01" target tightens accordingly.
 
 ---
 
@@ -122,6 +122,6 @@ Guardian is invited to be terse where terseness suffices.
 ## 6. Document control
 
 - **v0.1 (DRAFT)** (2026-04-28): Pre-staged under Architect drafting, in anticipation of TC-08 Guardian R3 review need and to prevent the R8/R3 closure questions from serialising. Five binding-ruling questions paralleling RT-2026-002's structure: Q1 (declaration-as-mitigation, R3 analogue of RT-2026-001 Q1); Q2 (Templar asymmetric survival, with explicit RT-2026-002 Q2(a) coupling); Q3 (doctrinal absence-as-finding, R4 motte-and-bailey audit on the R3 side); Q4 (cohort sampling discipline); Q5 (R3 closure call, with R8/R3 joint-closure prompt). Plus net-new-risk catch-all and TC-08 v0.2 drafting authorisation.
-- **Pre-issuance dependencies.** (a) Architect/user review and approval. (b) Guardian verdict on RT-2026-002 Q2 (to confirm Q2 of this brief is correctly framed) and Q4 (to confirm whether §1 due-by tightens). If RT-2026-002 lands materially different from the assumptions here, this draft is revised before issuance.
+- **Pre-issuance dependencies.** (a) Architect/user review and approval. (b) RT-2026-002 closed 2026-04-28; Q2 ruling lands as ratify-with-modification (presumptive channel-dominance by era band, three-tier power rule, boundary-case combined annotation), so Q2 of this brief carries forward as drafted; Q4 ruling broadens R8 closure to require TC-08, with three Guardian-pre-declared thresholds, which §1 and the cross-brief coupling have been updated to reflect. No further pre-issuance revisions required from RT-2026-002 alone.
 
 **Linked.** `docs/memos/defunct-archive-feasibility-memo-v0.1.md` (TC-08, under review); `docs/protocols/human-timescales-commensurability-protocol-v0.1.md`; `docs/protocols/human-timescales-reform-event-subtyping-protocol-v0.1.md`; `meta/review-tasks/tc06-guardian-review-v0.1.md` (RT-2026-002, structural template and Q2 coupling); `meta/review-tasks/tc06-scout-review-response-v0.1.md` (RT-2026-001 response, R8 precedent for closure-call format); `docs/scoping/human-timescales-scoping-v0.2.md` §5 M1, R3; `docs/task-cards/human-timescales-task-cards-v0.1.md` TC-08, TC-01, TC-04, TC-09; `meta/horizon-signals.md` (SF-7 survivorship, SF-8, SF-9).

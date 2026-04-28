@@ -103,6 +103,15 @@ Format:
 **Justification:** R3 survivorship-bias control requires *paired* defunct-case analysis to triangulate dissolution dynamics. Singleton Templar analysis is vulnerable to over-determination of the 1307–1312 dissolution; cohort-level Dissolution analysis is vulnerable to externally-imposed dissolution but offers the unique benefit of within-cohort documentary-survival heterogeneity. The pairing addresses both vulnerabilities.
 **Affected artifacts:** `docs/memos/defunct-archive-feasibility-memo-v0.1.md` (created); `docs/memos/README.md` (updated); `docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-08 status updated).
 
+## 2026-011
+
+**Date:** 2026-04-28.
+**Stance composition:** Architect (issuance of brief); Scout (response); user as Integrator-of-record.
+**Context:** Scout-pass review of TC-06 commensurability protocol v0.1 (RT-2026-001). Response lodged with five verdicts and two net-new horizon signals.
+**Decision:** (a) Establish `meta/review-tasks/` as the directory housing stance-specific review briefs and responses. (b) Establish `meta/horizon-signals.md` as the durable register for Scout-flagged horizon signals (SF-NNN) and risk-register status updates emerging from review passes; distinct from `falsification-tracker.md` (formal handles) and from inline scoping-document risk register. (c) Lodge SF-8 (coverage-correction divergence artifact) and SF-9 (multi-tagging era-heterogeneity inflation) as LIVE horizon signals. (d) Update R8 status in the horizon-signals register to **procedurally-managed-but-live**, with binding effect: every stationarity claim issued under TC-06 must annotate the R8 residual until cross-channel calibration is demonstrated post-TC-04. (e) Hold TC-06 v0.2 revision until the Guardian R8 review pass also lands, so Q1/Q2/Q4 modifications can be incorporated in a single revision pass with both reviewers' inputs.
+**Justification:** Scout's response is consequential and surfaces issues that neither Architect (drafter) nor Guardian (R8 discipline reviewer alone) could see — particularly Q4 (TC-06 × TC-07 cross-card coupling) and the SF-8/SF-9 horizon signals. Lodging the signals durably prevents drift; holding TC-06 v0.2 until Guardian's parallel pass lands prevents revision churn.
+**Affected artifacts:** `meta/review-tasks/README.md`, `meta/review-tasks/tc06-scout-review-v0.1.md`, `meta/review-tasks/tc06-scout-review-response-v0.1.md`; `meta/horizon-signals.md` (created); `meta/README.md` (updated); `meta/stance-log.md` (Scout entry); `logbook/2026-04/2026-04-28.md` (Scout response session).
+
 ---
 
 *Append below this line. Increment Decision ID yearly: 2026-NNN, 2027-NNN, ...*

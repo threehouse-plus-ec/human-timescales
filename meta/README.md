@@ -9,6 +9,8 @@ This directory holds artifacts that span the programme as a whole rather than be
 | `stance-log.md` | Running log of stance invocations across the programme. Populated from logbook entries. |
 | `council-decisions.md` | Substantive decisions taken under Council deliberation, with date, stance composition, and decision text. |
 | `falsification-tracker.md` | All falsification handles installed across the programme, with target dates, status, and resolution. |
+| `horizon-signals.md` | Scout-flagged horizon signals (SF-NNN) and risk-register status updates that emerge from review passes. Distinct from formal falsification handles. |
+| `review-tasks/` | Stance-specific review-task briefs for programme deliverables. One file per (deliverable × reviewer-stance). |
 
 ## Discipline
 

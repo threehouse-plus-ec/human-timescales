@@ -4,7 +4,9 @@ Operational task cards specifying the programme's empirical pilots, methodologic
 
 ## Current set
 
-**v0.1** — `human-timescales-task-cards-v0.1.md`. Eleven cards (TC-01 through TC-11).
+**v0.2** — `human-timescales-task-cards-v0.2.md` (current). Eleven cards (TC-01 through TC-11). Status-field refresh and `Deliverable location:` fields per RT-2026-001..005 outcomes; no card added, removed, or restructured.
+
+**v0.1** — `human-timescales-task-cards-v0.1.md` (frozen 2026-04-27). Initial card set; retained for reference.
 
 ## Critical path
 
@@ -26,4 +28,4 @@ Status values: PROPOSED · AUTHORISED · IN-PROGRESS · COMPLETE · BLOCKED · D
 
 ---
 
-*v0.1 · 2026-04-27.*
+*v0.2 · 2026-04-28.*

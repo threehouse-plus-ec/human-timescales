@@ -48,7 +48,7 @@
 
 ### `commensurability_protocol`
 
-Declared per TC-06. The value chosen affects how `interval_to_previous_yr` is computed and interpreted. See `../../docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-06).
+Declared per TC-06. The value chosen affects how `interval_to_previous_yr` is computed and interpreted. See `../../docs/task-cards/human-timescales-task-cards-v0.2.md` (TC-06).
 
 ## Derived columns
 

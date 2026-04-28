@@ -52,7 +52,7 @@ Every record will trace its source. Where multiple sources disagree on dates or 
 ## Cross-references
 
 - Schema: `schema.md`
-- Task card: `../../docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-01)
+- Task card: `../../docs/task-cards/human-timescales-task-cards-v0.2.md` (TC-01)
 - Scoping: `../../docs/scoping/human-timescales-scoping-v0.2.md` (§5 M1)
 - Methodological prerequisites: TC-06 (commensurability), TC-07 (reform-event sub-typing)
 - Survivorship control: TC-08

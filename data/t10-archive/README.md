@@ -50,7 +50,7 @@ To be declared on dataset completion. Recommended: CC0 for raw event compilation
 ## Cross-references
 
 - Schema: `schema.md`
-- Task card: `../../docs/task-cards/human-timescales-task-cards-v0.1.md` (TC-04)
+- Task card: `../../docs/task-cards/human-timescales-task-cards-v0.2.md` (TC-04)
 - Memo: `../../docs/memos/t10-mechanism-conjecture-memo-v0.1.md`
 
 ---

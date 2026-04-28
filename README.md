@@ -25,12 +25,12 @@ This is descriptive scientific work on observed coordination timescales. The rep
 | `docs/scoping/` | Versioned scoping documents (current: v0.2). |
 | `docs/memos/` | Working memos (see directory README for active set). |
 | `docs/protocols/` | Binding methodological protocols (commensurability v0.2; reform-event sub-typing v0.1). |
-| `docs/task-cards/` | Operational task cards (current: 11 cards, v0.1). |
+| `docs/task-cards/` | Operational task cards (current: 11 cards, v0.2). |
 | `docs/sails/` | Sail essays — arguments and interpretations (currently empty). |
 | `docs/ledger-drafts/` | Draft Breakwater claim-ledger entries before submission. |
 | `data/` | Empirical data, organised by task card with schemas. |
 | `analysis/` | Analysis code (scripts, notebooks). |
-| `ledger/` | Submitted Breakwater claim-ledger entries. |
+| `ledger/` | SubmiAtted Breakwater claim-ledger entries. |
 | `logbook/` | Dated research logbook entries. |
 | `meta/` | Stance log, council decisions, falsification tracker. |
 
@@ -77,4 +77,4 @@ Working in the Open-Science Harbour ecosystem (T(h)reehouse +EC).
 
 ---
 
-*Repository version 0.2.0 · 2026-04-28 · Stance: Guardian (drafting).*
+*Repository version 0.2.1 · 2026-04-28 · Stance: Guardian (drafting).*

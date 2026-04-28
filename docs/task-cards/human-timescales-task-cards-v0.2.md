@@ -1,9 +1,10 @@
 # Human-System Timescales — Research Task Cards
 
-**Version:** v0.1
+**Version:** v0.2
 **Stance:** Guardian (drafting); stance assignments embedded per card.
 **Parent documents:** *Human-System Timescales: Scoping v0.2*; *T10 Mechanism-Conjecture Memo v0.1*.
-**Date:** 2026-04-27
+**Date:** 2026-04-28
+**Predecessor:** `human-timescales-task-cards-v0.1.md` (2026-04-27 frozen state).
 
 ---
 
@@ -185,9 +186,11 @@ Critical path to S2 deliverable (Breakwater ledger): **TC-06/07 → TC-01 → TC
 ## TC-06 — Cross-Era Commensurability Protocol
 
 **Type:** Methodological infrastructure.
-**Status:** PROPOSED.
+**Status:** IN-PROGRESS (v0.1 drafted 2026-04-27; Scout review closed RT-2026-001 on 2026-04-28; Guardian R8-discipline review closed RT-2026-002 on 2026-04-28; v0.2 drafted 2026-04-28 with full integration of both responses; v0.2.1 binding follow-up: era-band slope-floor derivation memo v0.1 drafted 2026-04-28, pending Guardian R8 review pass before v0.2.1 protocol patch).
 **Drafter:** Architect.
 **Reviewer:** Guardian (R8 temporal-parallax discipline) + Scout.
+
+**Deliverable location:** `docs/protocols/human-timescales-commensurability-protocol-v0.2.md` (current); v0.1 retained at `docs/protocols/human-timescales-commensurability-protocol-v0.1.md` for reference.
 
 **Parent:** v0.2 §5 M1 (binding constraint, E3); R8.
 **Depends on:** none.
@@ -212,9 +215,11 @@ Critical path to S2 deliverable (Breakwater ledger): **TC-06/07 → TC-01 → TC
 ## TC-07 — Reform-Event Sub-Typing Protocol
 
 **Type:** Methodological infrastructure.
-**Status:** PROPOSED.
+**Status:** IN-PROGRESS (deliverable v0.1 drafted 2026-04-27; Guardian R3+R4 review brief RT-2026-005 issued 2026-04-28 with refinements 2.1+2.2 applied; awaiting Guardian response and domain-consultant identification).
 **Drafter:** Architect.
 **Reviewer:** Guardian + domain consultant for whichever archive is being studied.
+
+**Deliverable location:** `docs/protocols/human-timescales-reform-event-subtyping-protocol-v0.1.md`.
 
 **Parent:** v0.2 §5 M1; Architect M1 second bullet.
 **Depends on:** none.
@@ -239,9 +244,11 @@ Critical path to S2 deliverable (Breakwater ledger): **TC-06/07 → TC-01 → TC
 ## TC-08 — Defunct-Institution Archive Feasibility Check
 
 **Type:** Survivorship-bias control.
-**Status:** PROPOSED (recommended, not strictly binding).
+**Status:** IN-PROGRESS (deliverable v0.1 drafted 2026-04-27; Guardian R3 review closed RT-2026-004 on 2026-04-28 with R8-closure-precondition cross-binding rulings; anchor-house feasibility memo v0.1 drafted 2026-04-28 (Canterbury > Glastonbury); awaiting v0.2 drafting after anchor-house resolution and TC-04 stratum-comparability coordination).
 **Drafter:** Author or historiographic consultant.
 **Reviewer:** Guardian (R3 survivorship discipline).
+
+**Deliverable location:** `docs/memos/defunct-archive-feasibility-memo-v0.1.md`.
 
 **Parent:** v0.2 §5 M1 (Scout signal 2 / R3).
 **Depends on:** none.
@@ -325,9 +332,11 @@ Each claim with its own predictions, discriminant condition, feasibility flag, a
 ## TC-11 — Bibliography Fill: Contemporary Tenure-Trend Literature
 
 **Type:** Auxiliary scholarship.
-**Status:** PROPOSED.
+**Status:** IN-PROGRESS (v0.1 drafted 2026-04-27; Verifier review closed RT-2026-003 on 2026-04-28; v0.2 drafted 2026-04-28 with full RT-2026-003 integration; v0.2.1 follow-ups flagged for math/theoretical-physics cohort source, inverse-citation sweeps, broader non-English search, hostile-to-thesis band).
 **Drafter:** Author or research assistant.
 **Reviewer:** Verifier.
+
+**Deliverable location:** `docs/memos/bibliography-fill-tenure-trends-memo-v0.2.md` (current); v0.1 retained at `docs/memos/bibliography-fill-tenure-trends-memo-v0.1.md` for reference.
 
 **Parent:** v0.2 §12 (Architect bibliography gap).
 **Depends on:** none.
@@ -369,6 +378,7 @@ Each claim with its own predictions, discriminant condition, feasibility flag, a
 ## Document control
 
 - **v0.1** (2026-04-27): Initial card set drafted under Guardian invocation in response to user request to operationalise the research programme. Eleven cards covering empirical pilots (3), methodological infrastructure (3), cross-thread integration (1), survivorship control (1), synthesis (1), and auxiliary (2).
+- **v0.2** (2026-04-28): Status-field refresh and `Deliverable location:` field added per card where v0.1/v0.2 deliverables now exist. No card added, removed, restructured, or re-scoped relative to v0.1; card *content* (Type, Drafter/Reviewer, Parent/Depends on/Feeds, Deliverable, Success criterion, Falsification handle, Target completion, Estimated scope, Risks/open questions) unchanged. Card status updates reflect work landed 2026-04-28: TC-06 (Scout RT-2026-001 + Guardian R8 RT-2026-002 closed; v0.2 protocol drafted; v0.2.1 era-band slope-floor memo drafted); TC-07 (Guardian R3+R4 RT-2026-005 issued); TC-08 (Guardian R3 RT-2026-004 closed; anchor-house feasibility memo drafted); TC-11 (Verifier RT-2026-003 closed; v0.2 bibliography drafted). Created as part of the 0.2.1 governance-cleanup release resolving the v0.1 in-place-mutation discrepancy flagged in CHANGELOG [0.2.0] Known issues.
 - **Pending:** Integrator authorisation per card; collaborator assignment for TC-01 (council historiography), TC-04 (Internet-governance), TC-05 (UW direct), TC-08 (historiographic).
 - **Linked:** *Human-System Timescales: Scoping v0.2*; *T10 Mechanism-Conjecture Memo v0.1*.
 

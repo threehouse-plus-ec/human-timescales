@@ -6,6 +6,30 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ---
 
+## [0.2.1] — 2026-04-28
+
+Governance-cleanup release. Resolves the v0.1 task-card in-place-mutation discrepancy flagged in the [0.2.0] Known issues, and backfills the Council-decisions register.
+
+### Added
+
+- `docs/task-cards/human-timescales-task-cards-v0.2.md` — versioned snapshot of the task-card set as of 2026-04-28, with status-field refresh per RT-2026-001..005 outcomes and `Deliverable location:` field added to TC-06, TC-07, TC-08, TC-11. No card added, removed, or restructured relative to v0.1.
+- `meta/council-decisions.md` 2026-015 (Guardian RT-2026-002 response) and 2026-016 (Guardian RT-2026-004 response) — backfill entries closing the audit-trail gap.
+
+### Changed
+
+- `docs/task-cards/human-timescales-task-cards-v0.1.md` — restored to the original 2026-04-27 frozen state. The 2026-04-28 status-field and deliverable-location mutations applied during 0.2.0 are preserved in the new v0.2 snapshot above.
+- `docs/task-cards/README.md` — directory README updated to list v0.2 as current and v0.1 as retained-for-reference.
+- Forward-looking task-card references updated v0.1 → v0.2: `data/m1-catholic-councils/README.md`, `data/m1-catholic-councils/schema.md`, `data/t10-archive/README.md`, `docs/memos/bibliography-fill-tenure-trends-memo-v0.2.md` (Linked. section), `docs/protocols/human-timescales-commensurability-protocol-v0.2.md` (Linked. section). Historical references in v0.1-dated review briefs, protocols, memos, logbook, stance-log, and council-decisions left unchanged.
+- `README.md` closing line and `CITATION.cff` version bumped to 0.2.1 / 2026-04-28.
+- Stale TC-08 status text in v0.2 snapshot fixed (previously read "awaiting Guardian R3 review"; updated to reflect RT-2026-004 closed, anchor-house feasibility memo drafted).
+
+### Resolved (from [0.2.0] Known issues)
+
+- Council-decisions register entries for Guardian RT-2026-002 and RT-2026-004 responses now lodged.
+- `docs/task-cards/human-timescales-task-cards-v0.1.md` filename/internal-version/body discrepancy resolved by versioned-snapshot bump (v0.2 created; v0.1 restored to its 2026-04-27 frozen state).
+
+---
+
 ## [0.2.0] — 2026-04-28
 
 ### Added

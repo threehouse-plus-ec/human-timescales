@@ -10,7 +10,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 
 ## Active briefs
 
-*(none currently open)*
+- `tc06-guardian-review-v0.1.md` (RT-2026-002) — Guardian (R8) review pass on TC-06 commensurability protocol v0.1. Issued 2026-04-28 by Architect with Scout response (RT-2026-001) named as input. Five binding-ruling questions: effect-size floor (Q-CP3); channel-dominance + cross-card coupling; §6 procedural-falsification + §4.4 motte-and-bailey audit; R8 closure-call ratification; Q-CP4 small-sample default. Plus net-new R8 risk catch-all and explicit TC-06 v0.2 drafting authorisation.
 
 ## Closed briefs
 
@@ -18,8 +18,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 
 ## Pending briefs (not yet issued)
 
-- TC-06 Guardian (R8 temporal-parallax discipline) review. Should incorporate Scout response as input.
-- TC-07 Guardian + domain-consultant (council historiography) review.
+- TC-07 Guardian + domain-consultant (council historiography) review. Should incorporate SF-9 as input.
 - TC-11 Verifier review.
 - TC-08 Guardian (R3 survivorship-bias discipline) review.
 

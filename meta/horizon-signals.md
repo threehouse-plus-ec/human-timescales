@@ -55,6 +55,15 @@ Format:
 - **Status:** PROCEDURALLY-MITIGATED-IN-V0.2-DESIGN; LIVE pending v0.2 ratification.
 - **Resolution:** *(pending TC-06 v0.2 drafting and downstream verification that the mitigations are load-bearing in TC-01 / TC-04 / TC-08 use.)*
 
+## SF-11
+
+- **Issued:** 2026-04-28.
+- **Issuer:** Guardian, response to RT-2026-004 (`meta/review-tasks/tc08-guardian-review-response-v0.1.md`).
+- **Statement:** *Meta-survivorship in candidate-set selection.* The candidate-set of "defunct institutions documented well enough for M1 work" is itself a survivorship filter. Two distinct mechanisms operate: (i) **documentary-survival pre-filter** — dissolutions whose records did not survive the dissolution circumstance are absent from the candidate set entirely (Templars survived because the Vatican kept the bulls and Curzon recovered the statutes; obscure dissolved military orders such as the Knights of Calatrava have less surviving internal record and are not candidates); (ii) **historiographic-fashion pre-filter** — Templars and Henrician Dissolution monasteries are heavily studied, papal-suppression cases are over-represented, quiet-attrition cases are under-represented. The candidate field that TC-08 v0.1 selects from is doubly biased.
+- **Target deliverable:** TC-08 v0.2 §6 — declared candidate field with rejection criteria and a brief sensitivity statement on whether the documentary-survival and historiographic-fashion biases plausibly shift the paired-case verdict. SF-11 is procedurally-mitigatable at the v0.2 layer; failure to mitigate at v0.2 review triggers Guardian-reserved promotion.
+- **Status:** PROCEDURALLY-MITIGATABLE-IN-V0.2; LIVE pending v0.2 ratification.
+- **Resolution:** *(pending TC-08 v0.2 §6 declared-candidate-field clause.)*
+
 ---
 
 ## Risk-register status updates
@@ -72,6 +81,13 @@ Substantive updates to risk-register entries (R1–R10 in scoping v0.2 §9) that
 - **Source:** Guardian response to RT-2026-002 (`meta/review-tasks/tc06-guardian-review-response-v0.1.md`), Q4 ruling.
 - **Update text:** R8 closure now requires *both* TC-04 (cross-institution portability) *and* TC-08 (defunct-archive paired-case for survivor-vs-defunct robustness), plus satisfaction of three Guardian-pre-declared thresholds: (i) per-interval channel-ratio bound — variation by no more than a factor of 2 from the cross-case median across all paired intervals in TC-04 and TC-08; (ii) no tag-cluster dominance — neither `tenure-trend` nor `R8-residual-confirmed` modal in any TC-04 case or in the TC-08 paired-case set; (iii) cross-form coverage — at least one TC-04 case and at least one TC-08 case characterised without invoking the Q2(b) lower-tier weak-concordance regime as the modal verdict-issuance pathway. On satisfaction, R8 status moves to **closed-conditional-on-thresholds**, with the three thresholds themselves subject to Guardian re-authorisation if any TC-04 or TC-08 finding exposes their fragility.
 - **Binding effect:** TC-06 v0.2 §6 must encode the three thresholds. The pre-staged TC-08 Guardian R3 brief (provisional RT-2026-004) §1 must be revised pre-issuance to reflect that TC-08 is gating to R8 closure as well as R3 closure. v0.3 of the scoping document carries the closure-conditional status forward in §9 R8.
+
+### R3 — Survivorship bias
+
+- **Update issued:** 2026-04-28.
+- **Source:** Guardian response to RT-2026-004 (`meta/review-tasks/tc08-guardian-review-response-v0.1.md`), Q5 ruling.
+- **Update text:** R3 status is **procedurally-managed-but-live**, parallel to R8. R3 closure inherits R8's TC-04 + TC-08 joint-closure structure with R3-tuned thresholds — option (β) per the brief's joint-structure question. Three thresholds: (i) **survivor-vs-defunct rate-ratio bound** — per-stratum reform-event rate (events per century, sub-type-specific) for the survivor reference (TC-01 + TC-04 cohort) versus the defunct reference (TC-08 paired-case set) varies by no more than a factor of 2 from cross-stratum median; (ii) **no rescue-by-relabelling modal pattern** — neither "external-attack-vulnerability" nor "endogenous-reform-cycle" reading is the modal interpretation across the TC-08 paired-case set; (iii) **cross-form coverage without weak-concordance modal regime** — shared with R8's threshold (iii). On satisfaction of all three thresholds plus joint TC-04 + TC-08 completion, R3 status moves to **closed-conditional-on-thresholds**, with thresholds subject to Guardian re-authorisation if any TC-04 or TC-08 finding exposes their fragility. Until then, every survivor-stationarity claim issued under TC-01 carries a live R3 residual that must be declared in the claim's annotation, parallel to the R8 residual prescribed by RT-2026-001.
+- **Binding effect:** v0.3 of the scoping document must update §9 R3 to reflect this status (R3 was Scout signal 2 in v0.1 scoping; this is its first formal post-promotion update). TC-08 v0.2 §3.2 records the Q2 R3-discipline ruling (Templar pre-declared band-presumption override); §4.2 records the Q4 cohort-design ruling with anchor-house clause; §6 records the SF-11 declared-candidate-field clause. TC-09 ledger entry annotates the R3 residual on every survivor-stationarity claim until the three thresholds are satisfied.
 
 ---
 

@@ -77,4 +77,4 @@ Working in the Open-Science Harbour ecosystem (T(h)reehouse +EC).
 
 ---
 
-*Repository version 0.1.0 · Initial commit 2026-04-27 · Stance: Guardian (drafting).*
+*Repository version 0.2.0 · 2026-04-28 · Stance: Guardian (drafting).*

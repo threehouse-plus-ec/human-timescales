@@ -4,6 +4,11 @@ Scout-flagged horizon signals across the programme. Append-only with status upda
 
 Distinct from `falsification-tracker.md` (formal claim handles, FH-NNN) and from the `docs/scoping/*` risk register (R1–R10). This file tracks **horizon signals** — Scout-stance early-warning flags that have not been promoted to risk-register entries or formal falsification handles, plus risk-register status updates that emerge from review passes.
 
+**Document type:** Append-only tracker (governance record).
+**Established:** 2026-04-28 (per Council decision 2026-011).
+**Stance:** Scout (issuance, primary); Guardian (issuance, R-cross-cutting); each signal tagged with its issuing stance.
+**Document control deviation.** This file operates as an append-only tracker rather than a versioned document. The history of entries (and dated status updates appended below originals) is itself the change log; CONVENTIONS.md §3 doc-control fields (per-version, change log entries) do not apply per-entry. A formal §3 carve-out for tracker files is pending tier-5 governance review of CONVENTIONS.md (currently in Guardian-drafting stance, Architect/Verifier ratification pending).
+
 Format:
 - **Signal ID.** SF-NNN.
 - **Issued.** Date.

@@ -6,6 +6,25 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ---
 
+## [0.2.2] — 2026-04-28
+
+Metadata-and-tracker-discipline patch. Closes the remaining low-severity items from the consistency-audit triage.
+
+### Added
+
+- ORCID linkage in `CITATION.cff` (`https://orcid.org/0000-0001-8081-9718`), honouring the FAIR.md commitment.
+- Tracker-type headers in the four append-only meta files (`council-decisions.md`, `falsification-tracker.md`, `horizon-signals.md`, `stance-log.md`) — each declares document type (append-only tracker), established date, custodial stance, and an explicit document-control deviation note recording that CONVENTIONS.md §3 per-version doc-control fields do not apply per-entry. A formal §3 carve-out is deferred to tier-5 governance review of CONVENTIONS.md.
+
+### Changed
+
+- `CITATION.cff` version and `README.md` closing line bumped to 0.2.2.
+
+### Outstanding (deferred to tier 5)
+
+- `CONVENTIONS.md` and `FAIR.md` themselves remain in "Stance: Guardian (drafting). Reviewed by: pending Architect/Verifier" — they are enforcing rules they have not been formally ratified under. Resolution requires Council pass (Architect + Verifier review of both files), not a documentation patch.
+
+---
+
 ## [0.2.1] — 2026-04-28
 
 Governance-cleanup release. Resolves the v0.1 task-card in-place-mutation discrepancy flagged in the [0.2.0] Known issues, and backfills the Council-decisions register.

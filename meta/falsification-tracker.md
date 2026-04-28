@@ -2,6 +2,11 @@
 
 All falsification handles installed across the programme. Append-only with status updates appended (entries themselves are not modified except for typo corrections).
 
+**Document type:** Append-only tracker (governance record).
+**Established:** 2026-04-27.
+**Stance:** Guardian (custodial); each handle installed under the stance that drafted its source artifact.
+**Document control deviation.** This file operates as an append-only tracker rather than a versioned document. The history of entries (and dated status updates appended below originals) is itself the change log; CONVENTIONS.md §3 doc-control fields (per-version, change log entries) do not apply per-entry. A formal §3 carve-out for tracker files is pending tier-5 governance review of CONVENTIONS.md (currently in Guardian-drafting stance, Architect/Verifier ratification pending).
+
 Format:
 - **Handle ID.** YYYY-FH-NNN.
 - **Installed.** Date.

@@ -6,7 +6,7 @@ authors:
   - family-names: Warring
     given-names: Ulrich
     affiliation: "Physikalisches Institut, Albert-Ludwigs-Universität Freiburg"
-    # orcid: "https://orcid.org/0000-0000-0000-0000"  # to be supplied
+    orcid: "https://orcid.org/0000-0001-8081-9718"
 abstract: >-
   A research programme investigating institutional reform timescales
   with persistent multi-domain legitimacy. Hypothesis: such reform is
@@ -27,7 +27,7 @@ keywords:
   - Council deliberation
 license: CC-BY-4.0
 repository-code: "https://github.com/threehouse-plus-ec/human-timescales"
-version: "0.2.1"
+version: "0.2.2"
 date-released: "2026-04-28"
 references:
   - type: article

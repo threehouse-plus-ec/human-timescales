@@ -2,6 +2,11 @@
 
 Running log of stance invocations across the programme. Append-only.
 
+**Document type:** Append-only tracker (governance record).
+**Established:** 2026-04-27.
+**Stance:** Guardian (custodial); each entry tagged with the invoking stance.
+**Document control deviation.** This file operates as an append-only tracker rather than a versioned document. The history of entries is itself the change log; CONVENTIONS.md §3 doc-control fields (per-version, change log entries) do not apply per-entry. A formal §3 carve-out for tracker files is pending tier-5 governance review of CONVENTIONS.md (currently in Guardian-drafting stance, Architect/Verifier ratification pending).
+
 Format: date — stance — context (artifact or activity) — outcome / disposition.
 
 ---

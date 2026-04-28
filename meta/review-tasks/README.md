@@ -10,7 +10,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 
 ## Active briefs
 
-*(none)*
+- `tc07-guardian-review-v0.1.md` (RT-2026-005) — Guardian (R3 + R4) + domain-consultant (council historiography) review pass on TC-07 reform-event sub-typing protocol v0.1. Issued 2026-04-28 by Architect after pre-stage review and refinements (2.1 cross-binding mandate map extended — RT-2026-004 Q3 also bites Q4 via pre-declared-interpretive-rule structure carryover to inclusion-test ambiguity; 2.2 Trent (1545–1563) added to Q4 prompts as canonical multi-session × multi-tagging × multi-decade test case). Five binding-ruling questions: Q1 inclusion-test boundary cases (anti-pope councils, multi-session councils, conciliar-vs-papal-ratification timing); Q2 multi-tagging × TC-06 v0.2 three-tier power rule cross-card coupling (three sub-rulings); Q3 SF-9 era-stratified inter-coder reliability sampling (binding); Q4 domain-consultant pass on inclusion/exclusion application (Lateran IV, Constance Haec sancta, Trent, Vatican II); Q5 TC-07 v0.2 closure call + drafting authorisation. Per-jurisdiction split (Guardian + domain consultant) permitted on Q1 and Q4. Net-new catch-all flags inverse-R4 risk (motte-and-bailey toward *weaker* claims via deliberate-conservatism reading of inconclusive default). Domain-consultant identification deferred as v0.2 follow-up.
 
 ## Closed briefs
 
@@ -21,7 +21,7 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 
 ## Pending briefs (not yet issued)
 
-- TC-07 Guardian (R3+R4) + domain-consultant (council historiography) review. **v0.1 draft pre-staged 2026-04-28** at `tc07-guardian-review-v0.1.md` (provisional ID RT-2026-005); awaits Architect/user issuance authorisation and identification of named domain consultant. Five binding-ruling questions: Q1 inclusion-test boundary cases (Q-RE1 + new boundary audit on anti-pope councils, multi-session councils, conciliar-vs-papal-ratification timing); Q2 multi-tagging × TC-06 v0.2 three-tier power rule cross-card coupling (Q-RE3 + tag-set layer consistency + effective-n reporting); Q3 SF-9 era-stratified inter-coder reliability sampling; Q4 domain-consultant pass on inclusion/exclusion application across calibration corpus (Lateran IV, Constance, Vatican II); Q5 TC-07 v0.2 closure call + drafting authorisation. Per-jurisdiction split (Guardian R3+R4 vs domain consultant) permitted on Q1 and Q4. Cross-binding mandates from SF-9, RT-2026-002 Q2(b)+Q3, and RT-2026-004 Q1+Q3 explicitly mapped.
+*(none — review-brief queue fully populated as of 2026-04-28.)*
 
 ---
 

@@ -21,8 +21,8 @@ Briefs for stance-specific review passes on programme deliverables. Each brief n
 
 ## Pending briefs (not yet issued)
 
-*(none — review-brief queue fully populated as of 2026-04-28.)*
+- `governance-ratification-architect-verifier-review-v0.2.md` (provisional RT-2026-006) — Architect + Verifier review brief on CONVENTIONS.md + FAIR.md ratification (tier-5 audit follow-up). DRAFT issuance-ready as of 2026-04-29; v0.1 (DRAFT pre-stage) retained at `governance-ratification-architect-verifier-review-v0.1.md` for reference. Smell-tested 2026-04-29 by Architect (`governance-ratification-architect-smell-test-v0.1.md` — three ★ blocking + seven △ recommended observations applied in v0.2). Verifier response on Q8–Q10 lodged early (during v0.1 pre-stage) at `governance-ratification-verifier-review-response-v0.1.md` — verdict: **CONDITIONAL ratification**, four blocking issues (ADM-EC ambiguity; per-artefact license marking; data-license boundary not testable; FAIR overstated compliance); Verifier offers to draft remediation patches. Pending Architect Q1–Q7 ruling and user/Council confirmation for issuance + acceptance of Verifier patch offer.
 
 ---
 
-*v0.1 · 2026-04-28.*
+*v0.2 · 2026-04-29.*

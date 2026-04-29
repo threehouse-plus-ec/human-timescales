@@ -1,5 +1,7 @@
 # Review brief — Guardian (R3 + R4) + domain-consultant (council historiography) pass on TC-07 reform-event sub-typing protocol v0.1
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Brief ID:** RT-2026-005 (issued 2026-04-28).
 **Drafted:** 2026-04-28.
 **Issued:** 2026-04-28 by Architect, following pre-stage review and refinement application (2.1 cross-binding mandate extension; 2.2 Trent added to Q4 prompts).

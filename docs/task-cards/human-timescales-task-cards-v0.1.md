@@ -1,5 +1,7 @@
 # Human-System Timescales — Research Task Cards
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Version:** v0.1
 **Stance:** Guardian (drafting); stance assignments embedded per card.
 **Parent documents:** *Human-System Timescales: Scoping v0.2*; *T10 Mechanism-Conjecture Memo v0.1*.

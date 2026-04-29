@@ -1,5 +1,7 @@
 # Scout-stance review memo — TC-06 v0.1
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Date:** 2026-04-28  
 **Stance:** Scout  
 **Responding to brief:** RT-2026-001  

@@ -1,5 +1,7 @@
 # Verifier-stance review response — RT-2026-006 (CONVENTIONS.md + FAIR.md ratification)
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Date:** 2026-04-29
 **Stance:** Verifier (source-grounding and standards-compliance jurisdiction)
 **Responding to brief:** RT-2026-006 (`governance-ratification-architect-verifier-review-v0.1.md` — DRAFT pre-stage at time of response; v0.2 issuance-ready lodged same day after Architect smell-test).

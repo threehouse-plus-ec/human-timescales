@@ -1,5 +1,7 @@
 # Review brief — Verifier pass on TC-11 bibliography fill v0.1
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Brief ID:** RT-2026-003
 **Issued:** 2026-04-28
 **Issuer:** Author (drafter of the deliverable under review).

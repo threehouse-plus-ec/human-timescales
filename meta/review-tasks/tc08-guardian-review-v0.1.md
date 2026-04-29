@@ -1,5 +1,7 @@
 # Review brief — Guardian (R3) pass on TC-08 defunct-archive feasibility memo v0.1
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Brief ID:** RT-2026-004 (issued 2026-04-28).
 **Drafted:** 2026-04-28.
 **Issued:** 2026-04-28 by Architect, following pre-stage review and refinement application (2.1 and 2.2 below).

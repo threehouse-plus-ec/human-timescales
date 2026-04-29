@@ -2,7 +2,7 @@
 
 This repository commits to the FAIR principles for research outputs: **F**indable, **A**ccessible, **I**nteroperable, **R**eusable. This file is not a manifesto — it is an operational checklist that disciplines what goes into the repository and how.
 
-The FAIR principles were articulated by Wilkinson et al. (2016, *Scientific Data* 3:160018). This repository implements them as follows.
+The FAIR principles were articulated by Wilkinson et al. (2016, *Scientific Data* 3:160018). This repository implements an operational framework aligned with the FAIR principles, with full compliance as a target state. Per-principle implementation discipline follows.
 
 ---
 
@@ -19,6 +19,8 @@ The FAIR principles were articulated by Wilkinson et al. (2016, *Scientific Data
 - Every dataset directory carries a `README.md` describing the dataset purpose, source, schema, and provenance.
 - Every dataset carries a `schema.md` defining columns, types, controlled vocabularies, and unit conventions.
 - Every analysis carries metadata declaring inputs, outputs, dependencies, and seed values where applicable.
+
+**Dataset vs. dataset slot** (per Council 2026-017, RT-2026-006 Q6.1 ruling). A *dataset* is a directory under `data/` containing non-placeholder content; a *dataset slot* is a placeholder directory awaiting content. Schema requirements bind on first content commit, not on slot creation. Schema language: markdown-prose with YAML front-matter is acceptable as the current floor; formal schema languages (JSON Schema, frictionless-data, or domain-equivalent) are preferred medium-term and required for any dataset whose schema is referenced by code.
 
 **F3. Metadata clearly and explicitly include the identifier of the data they describe.**
 
@@ -84,8 +86,8 @@ The FAIR principles were articulated by Wilkinson et al. (2016, *Scientific Data
 
 - Documentation: CC BY 4.0.
 - Code: Apache-2.0.
-- Data: CC0 where copyright does not apply; CC BY 4.0 for compiled datasets where attribution is appropriate.
-- See `LICENSE.md`.
+- Data: per-class defaults (raw → CC0 1.0; processed → CC BY 4.0; derived → CC BY 4.0) with per-dataset overrides; see `LICENSE.md`.
+- Per-artefact license accessibility is satisfied via the declared inheritance mechanism in `LICENSE.md` (artefact license is determinable from path).
 
 **R1.2. (Meta)data are associated with detailed provenance.**
 
@@ -101,30 +103,60 @@ The FAIR principles were articulated by Wilkinson et al. (2016, *Scientific Data
 
 ---
 
-## Operational discipline (per-commit)
+## Compliance status
 
-Before any commit that adds or modifies a dataset, ask:
+(Per Council 2026-017, RT-2026-006 Q10.3 ruling.)
 
-- [ ] Is the dataset in an open format (CSV, JSON, plain text)?
-- [ ] Does it have a `README.md` and a `schema.md`?
-- [ ] Does the schema declare units, types, and controlled vocabularies?
-- [ ] Is provenance traceable (source archive, collection date, collector, method)?
-- [ ] Is the licence declared?
-- [ ] If derivative: is the derivation script committed and reproducible?
+This repository implements an operational framework aligned with FAIR principles. Full compliance is a target state, not a current achievement. Specifically as of v0.3.0:
 
-Before any commit that adds or modifies a document, ask:
+- **F1 (DOIs via Zenodo):** conditional on release-time deposit; active for tagged releases only.
+- **F4 (ORCID linkage):** present in CITATION.cff as of v0.2.2.
+- **I1–I3 (vocabularies, formal schema languages):** markdown-prose with YAML front-matter is the current floor; formal schema languages (JSON Schema, frictionless-data) are preferred medium-term and required where schemas are referenced by code (per Architect Q6.2 ruling).
+- **Per-artefact license accessibility (R1.1, A1):** satisfied via declared-inheritance mechanism in LICENSE.md (per Verifier Q9.4 patch).
+- **Other principles:** implementation aligned but ongoing audit cadence (per the three-tier operational discipline below) is the discipline that surfaces drift.
 
-- [ ] Does it carry a stance log?
-- [ ] Does it carry a document control section with version and date?
-- [ ] Does it carry the non-prescription clause inheritance (where applicable)?
-- [ ] Does it carry falsification handles for any new claim?
+---
 
-Before any release, ask:
+## Operational discipline (three-tier checklist)
 
-- [ ] Is the CHANGELOG updated?
-- [ ] Is CITATION.cff current?
-- [ ] Is a Zenodo deposit prepared?
-- [ ] Are all internal cross-references valid?
+(Per Council 2026-017, RT-2026-006 Q7 ruling. Replaces the prior single-checklist form.)
+
+Three commit-type tiers, each with its own checklist:
+
+### Tier I — Working commits
+
+Commits that do not bump SemVer and do not ratify a Council decision. Pre-commit checklist is **aspirational**. Drift surfaces in audit as observation-class findings; non-completion does not block the commit.
+
+Aspirational pre-commit checklist (Tier I):
+
+- [ ] If the commit modifies a dataset: open format (CSV, JSON, plain text); README and schema present; provenance traceable; licence determinable from path or per-dataset README.
+- [ ] If the commit modifies a document: stance log entry where mandated by §4 cadence rule; document control section with version and date; non-prescription clause inheritance (where applicable); falsification handles for any new claim.
+- [ ] If the commit modifies a derivative: derivation script committed and reproducible.
+
+### Tier II — Release commits
+
+Commits that bump SemVer (i.e., create a new release tag). Pre-release checklist is **binding**: non-completion blocks the release tag.
+
+Binding pre-release checklist (Tier II):
+
+- [ ] CHANGELOG entry drafted in Keep a Changelog format (Added / Changed / Deprecated / Removed / Fixed / Security headers as applicable).
+- [ ] CITATION.cff `version` and `date-released` fields bumped.
+- [ ] README closing-line version stamp bumped.
+- [ ] Outstanding items from the prior release reconciled (closed in this release's Resolved section, or carried forward in Outstanding with explicit reason).
+- [ ] All internal cross-references valid (no stale paths to renamed/removed artefacts).
+- [ ] Zenodo deposit prepared (or explicitly deferred with reason).
+
+### Tier III — Council-decision commits
+
+Commits that ratify a Council decision (substantive deliberation outcome lodged in `meta/council-decisions.md`). Pre-decision checklist is **binding**: non-completion blocks the decision-ratification commit.
+
+Binding pre-decision checklist (Tier III):
+
+- [ ] `meta/council-decisions.md` entry lodged with: stance composition, brief reference (RT-NNNN), per-question rulings summarised, modifications applied, audit-observation closure where applicable.
+- [ ] `meta/stance-log.md` entries lodged for issuing stance and ruling stance(s).
+- [ ] Brief artefact reference linked from the Council decision entry.
+- [ ] Where the decision triggers file modifications: edits applied in the same commit (integrated commit discipline) or in a same-release follow-up commit referenced in the decision.
+- [ ] Endorsement Marker on modified framework documents updated per §5 post-review form (Stance / Reviewed by / Modified by).
 
 ---
 
@@ -136,6 +168,7 @@ Before any release, ask:
 - Loss of stance / deliberation context when documents are extracted.
 - Falsification handles disappearing as documents evolve.
 - Findability degradation as the repository grows.
+- Compliance overstatement (per Q10.3 ruling: aligned ≠ complies; the three-tier checklist is the audit cadence that surfaces drift).
 
 ---
 
@@ -147,4 +180,4 @@ Before any release, ask:
 
 ---
 
-*Document control. v0.1 · 2026-04-27 · Stance: Guardian (drafting). Reviewed by: pending Architect/Verifier.*
+*Document control. v0.3.0 · 2026-04-29 · Stance: Guardian (drafting). Reviewed by: Architect 2026-04-29, Verifier 2026-04-29. Modified by: Architect 2026-04-29 (Q6 dataset/slot distinction + schema-language declaration; Q7 three-tier checklist restructure), Verifier 2026-04-29 (Q10.3 alignment-vs-compliance wording + new Compliance status section).*

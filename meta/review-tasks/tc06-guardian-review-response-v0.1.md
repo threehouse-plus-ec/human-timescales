@@ -1,5 +1,7 @@
 # Guardian-stance review memo — TC-06 v0.1
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Date:** 2026-04-28
 **Stance:** Guardian (R8 temporal-parallax discipline; with R4 motte-and-bailey discipline as cross-cutting lens)
 **Responding to brief:** RT-2026-002

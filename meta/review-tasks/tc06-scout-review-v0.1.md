@@ -1,5 +1,7 @@
 # Review brief — Scout pass on TC-06 commensurability protocol v0.1
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Brief ID:** RT-2026-001
 **Issued:** 2026-04-28
 **Issuer:** Architect (drafter of the deliverable under review).

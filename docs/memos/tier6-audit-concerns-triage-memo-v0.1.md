@@ -1,5 +1,7 @@
 # Tier-6 substantive concerns — Council triage memo
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Date drafted:** 2026-04-29.
 **Drafter:** Architect (surfacing audit observations for Council deliberation).
 **Status:** DRAFT for Council triage.

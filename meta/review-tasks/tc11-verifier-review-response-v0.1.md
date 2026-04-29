@@ -1,5 +1,7 @@
 # TC-11 Verifier review response — bibliography fill and methodological check (v0.1)
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Date:** 2026-04-28
 **Stance:** Verifier
 **Brief ID responded to:** RT-2026-003

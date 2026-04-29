@@ -27,8 +27,8 @@ keywords:
   - Council deliberation
 license: CC-BY-4.0
 repository-code: "https://github.com/threehouse-plus-ec/human-timescales"
-version: "0.2.2"
-date-released: "2026-04-28"
+version: "0.3.0"
+date-released: "2026-04-29"
 references:
   - type: article
     authors:

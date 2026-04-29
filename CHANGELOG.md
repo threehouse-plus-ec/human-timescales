@@ -6,6 +6,58 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 
 ---
 
+## [0.3.0] — 2026-04-29
+
+Tier-5 governance ratification release. Closes the unratified-conventions gap that has stood since the initial 2026-04-27 commit. Ratified by Council decision 2026-017 (RT-2026-006), integrating Architect Q1–Q7 + Verifier Q8–Q10 rulings + Verifier follow-up patches in a single integrated commit per the cross-jurisdiction integrated-commit discipline.
+
+### Added
+
+- `meta/review-tasks/governance-ratification-architect-review-response-v0.1.md` — Architect Q1–Q7 ruling response.
+- `meta/review-tasks/governance-ratification-verifier-followup-patches-v0.1.md` — Verifier follow-up patches drafted on user Path-1 acceptance of Verifier offer.
+- `meta/council-decisions.md` 2026-017 — ratification decision lodged.
+- **CONVENTIONS.md** new sections:
+  - §3 append-only-tracker carve-out sub-clause (Architect Q1 option (a)-modified).
+  - §4 stance-log cadence sub-clause (Architect Q5(c)-1).
+  - §5 post-review marker form with "Modified by" field (Architect Q3 ruling on post-ratification wording).
+  - §6 hybrid inheritance with prescription-eligibility test (Architect Q4 ruling).
+  - **New §7** — Review-tasks framework codification, including self-issuance reframe-permission clause (Architect Q5(a)).
+  - **New §8** — Tracker artefact types codification: FH-NNN / SF-NNN / R-N non-substitutability and bidirectional cross-link discipline (Architect Q5(b)).
+- **FAIR.md** new sections:
+  - F2 dataset vs. dataset-slot distinction with schema-language declaration (Architect Q6.1 + Q6.2).
+  - Compliance status section explicitly distinguishing operational alignment from full compliance (Verifier Q10.3).
+  - Three-tier checklist (Tier I working/aspirational, Tier II release/binding, Tier III Council-decision/binding) replacing the prior single-checklist form (Architect Q7 option (d)).
+- **LICENSE.md** new sections:
+  - Per-class data defaults (raw → CC0 1.0; processed → CC BY 4.0; derived → CC BY 4.0; documentation → CC BY 4.0) with per-dataset README override discipline (Verifier Q9.3).
+  - License inheritance discipline section satisfying FAIR-A1 per-resource license-accessibility requirement (Verifier Q9.4).
+- Endorsement Markers added to 14 framework files that lacked them (Q3 spot-check remediation): `docs/memos/tier6-audit-concerns-triage-memo-v0.1.md`; `docs/task-cards/human-timescales-task-cards-v0.{1,2}.md`; all 11 `meta/review-tasks/*-v0.1.md` files lacking markers.
+
+### Changed
+
+- **CONVENTIONS.md** §4 stance reclassification (Architect Q2 option (a) integrated with Verifier Q8.5 ADM-EC patch). "Advisory flags: Scout, Verifier" replaced with "Per-jurisdiction primary stances: Scout (horizon-signal jurisdiction) and Verifier (source-grounding jurisdiction)". Council-3 core (Guardian, Architect, Integrator) retains cross-jurisdiction veto authority defined in-line (Guardian on clarity-and-ethics; Architect on structural-coherence; Integrator on flow); per-jurisdiction primaries do not. "ADM-EC Constitution (referenced externally)" reference removed; Core Function definitions self-contained in §4 text.
+- **CONVENTIONS.md** §9 (renumbered from §7; T4 kill-criterion) — "ADM-EC vocabulary" reference clarified as "a working internal framework" to remove external-authority implication (Verifier Q8.5).
+- **CONVENTIONS.md** sections renumbered: existing §7–§14 → §9–§16 to accommodate new §7 and §8.
+- **FAIR.md** line 5 — "implements them as follows" replaced with "implements an operational framework aligned with the FAIR principles, with full compliance as a target state" (Verifier Q10.3).
+- **LICENSE.md** Data section — "where copyright would not apply" replaced with operationally testable per-class defaults from path (Verifier Q9.3).
+- **Endorsement Markers** on CONVENTIONS.md, FAIR.md, LICENSE.md updated to ratified form per new §5 extension: "Stance: Guardian (drafting). Reviewed by: Architect 2026-04-29, Verifier 2026-04-29. Modified by: Architect 2026-04-29 (specific modifications listed), Verifier 2026-04-29 (specific modifications listed)."
+- `meta/review-tasks/README.md` — RT-2026-006 moved from Pending to Closed.
+- `meta/stance-log.md` — Verifier follow-up entry and Council-decision-2026-017 entry appended.
+- `CITATION.cff` — version bumped to 0.3.0; date-released 2026-04-29.
+- `README.md` closing-line bumped to v0.3.0.
+
+### Resolved (from [0.2.2] Outstanding)
+
+- CONVENTIONS.md and FAIR.md ratification gap (tier-5 audit follow-up): both files now ratified via Council decision 2026-017 with substantive modifications applied; Endorsement Markers updated to ratified form. The unratified period (2026-04-27 through 2026-04-29) is closed as an audit observation, prospective-only per §6 default.
+
+### Outstanding (carried into 0.3.0)
+
+- **RT-2026-007 lodgement within two weeks** — Two Q5(c) candidates routed by Architect ruling: (i) decision-register-citation verification (Council decisions are referenced by number throughout artefacts; no convention currently requires the cited number to exist or to bind what is claimed); (ii) cross-tracker linkage symmetry enforcement (new §8 requires bidirectional cross-links; no audit mechanism currently checks for asymmetric drift).
+- **Tier-6 substantive methodological concerns** — Inverse-R4 fragility, R8/R3 procedurally-managed-but-live status, TC-05 GLHC-dossier dependency-scoping gap. Triage memo at `docs/memos/tier6-audit-concerns-triage-memo-v0.1.md`. Tier-6 substantive rulings now unblocked (tier-5 closure satisfied per Architect Q7 EC ruling on tier-5/tier-6 gating).
+- **Q1 tracker-header housekeeping** — entry-numbering convention should be added to the four append-only tracker headers at next housekeeping pass (non-blocking; current headers compliant in substance per §3 carve-out).
+- **CITATION.cff machine validation** — schema validation against CFF v1.2.0 (Verifier Q10.4 non-blocking item).
+- **Apache-2.0 "(when added)" clarification** — operational trigger condition for the Code license (Verifier Q9.2 non-blocking item).
+
+---
+
 ## [0.2.2] — 2026-04-28
 
 Metadata-and-tracker-discipline patch. Closes the remaining low-severity items from the consistency-audit triage.

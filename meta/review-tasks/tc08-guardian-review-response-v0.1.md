@@ -1,5 +1,7 @@
 # Guardian-stance review memo — TC-08 v0.1
 
+*Endorsement Marker (provisional). Internal scoping work, not a Coastline. No external endorsement is asserted.*
+
 **Date:** 2026-04-28
 **Stance:** Guardian (R3 survivorship-bias discipline, primary; R8-closure-precondition cross-binding scrutiny per RT-2026-002 Q4)
 **Responding to brief:** RT-2026-004
